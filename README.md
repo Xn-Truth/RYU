@@ -1,6 +1,6 @@
 # RYU Install Ubuntu 22.04
 
-sudo apt-get update
+sudo apt-get update 
 sudo add-apt-repository ppa:deadsnakes
 sudo apt update
 sudo apt install python3.7
